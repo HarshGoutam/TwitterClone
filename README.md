@@ -1,6 +1,6 @@
 # Twitter Clone
 A Twitter Clone using SwiftUI and Firebase
-##Features
+## Features
 1. MVVM design
 2. Authentication User Interface
 3. Firebase Integeration
